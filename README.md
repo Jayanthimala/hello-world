@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repo
+I have managed to create a new branch and finish editing my readme file. Hurrah!
